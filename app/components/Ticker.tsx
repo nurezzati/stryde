@@ -1,6 +1,6 @@
 export default function Ticker() {
   const items = [
-    "Free Shipping Over $100",
+    "Free Shipping Over RM100",
     "New Arrivals: Velocity Series",
     "Summer Collection Now Live",
     "Built For Runners, By Runners",
